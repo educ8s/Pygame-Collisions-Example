@@ -61,11 +61,7 @@ In this tutorial, we build a basic Pygame application that demonstrates collisio
 
 - Python 3.x
 - Pygame
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+- 
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you have any suggestions or improvements.
