@@ -3,6 +3,18 @@
 
 This repository contains the code for a video tutorial on creating a simple collision detection system using Pygame in Python.
 
+
+# Video Tutorial
+
+<p align="center">
+  <img src="preview.jpg" alt="" width="940">
+</p>
+
+<p align="center">
+🎥 <a href="https://youtu.be/u35-y3OKj3o">Video Tutorial on YouTube</a>
+</p>
+
+
 ## Overview
 
 In this tutorial, we build a basic Pygame application that demonstrates collision detection between a player-controlled character (Dino) and an obstacle. The tutorial covers setting up the Pygame window, updating the character's position, detecting collisions, and visually representing the collision state.
