@@ -18,7 +18,7 @@ In this tutorial, we build a basic Pygame application that demonstrates collisio
 ## Code Structure
 
 - **main.py:** The main script that initializes the Pygame window, handles events, updates the Dino's position, checks for collisions, and renders the game objects.
-- **dino.py:** A separate module containing the `Dino` class, which manages the character's position, rendering, and collision detection.
+- **dino.py:** A separate module containing the `Dino` class, which manages the character's position, rendering, movement, and collision detection.
 
 ## How to Run
 
@@ -41,7 +41,7 @@ In this tutorial, we build a basic Pygame application that demonstrates collisio
 ## Usage
 
 - Run the script and a window titled "Pygame collisions" will appear.
-- The `Dino` character will automatically move and interact with the obstacle.
+- The `Dino` character can be moved using the arrow keys on the keyboard.
 - The obstacle is drawn as a black rectangle.
 - If a collision occurs, visual feedback will be provided.
 
