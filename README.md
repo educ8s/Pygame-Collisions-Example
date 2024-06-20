@@ -36,7 +36,7 @@ In this tutorial, we build a basic Pygame application that demonstrates collisio
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/pygame-collisions-tutorial.git
+   git clone https://github.com/educ8s/pygame-collisions-tutorial.git
    cd pygame-collisions-tutorial
    ```
 
